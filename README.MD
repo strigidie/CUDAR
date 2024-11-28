@@ -1,8 +1,6 @@
 # CUDAR
-<p align="center">
-    <img src=".github/banner.png">
-</p>
 
+![Banner](.github/banner.png)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Version](https://img.shields.io/badge/version-0.0.1-green.svg)
 
